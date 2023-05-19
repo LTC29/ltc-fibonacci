@@ -14,6 +14,8 @@ function fibonacciGenerator(n) {
   return sequence;
 }
 
+//with recursion
+
 function fibonacciGeneratorRecursion(n) {
   let sequence = [];
   if (n === 1) {
